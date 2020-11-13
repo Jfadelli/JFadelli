@@ -14,6 +14,6 @@ When I'm not glued to my desk, I like to drink ☕, work out & 🏄, & play 🏀
 <details><summary>😄 Pronouns: Sire</summary> (Like a knight)<br>
   ((but seriously, I'm a cisgender male, and I go by mr.))</details>
 ---
-- 📫 How to reach me: 
+* 📫 How to reach me: 
   - I am on [LinkedIn](http://linkedin.com/in/jfadelli)
   - You can see my progress on [CodeSignal](https://app.codesignal.com/profile/j_son)
