@@ -3,7 +3,7 @@
 
 Hi, I'm Jason. A software engineer with a passion for problem solving... Seriously, I can't get enough algos. 💻
 
-When I'm not glued to my desk, I like to drink ☕, work out & 🏄, & play 🏀, 🎮
+When I'm not glued to my desk, I like to drink coffee ☕, work out & 🏄, & play 🏀 🎮
 
 ---
 * 🔭 I’m currently working on ... kwcSanDiego.com <- a professional commercial real estate website
