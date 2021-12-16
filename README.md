@@ -7,11 +7,11 @@ When I'm not glued to my desk, I like to drink coffee ☕, work out & 🏄, & pl
 
 ---
 
-* I recently got hired at a tech company as an IT Administrator, and am enjoying the challenges with learning a new role in a tech company.
+* I am in the process of developing a few pet projects, spanning from gaming, to cooking, to professional website development.
 
-* 🔭 I’m currently working on ... kwcSanDiego.com <- a professional commercial real estate website
+* 🔭 I’m currently working remotely for Preformance Based Ergonomics <- A small tech company based in Oakland CA
 
-* 🌱 I’m currently learning ... Python and JavaScript <- Never stop learning
+* 🌱 I’m continuing to expand my knowledge of  ... Reasct, Python and JavaScript
 
 * 💬 Ask me about ... anything!
 <details><summary>😄 Pronouns: Sire</summary> (Like a knight)<br>
